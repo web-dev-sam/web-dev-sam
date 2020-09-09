@@ -2,7 +2,7 @@ Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLab
 
 
 <br/>
-<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=MindLabor&hide=contribs,prs&count_private=true&show_icons=true" /></a><br/>
+<a name="m"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MindLabor&hide=contribs,prs&count_private=true&show_icons=true" /></a><br/>
 &nbsp;
 
 
@@ -33,7 +33,7 @@ Languages:\
 </a>
 <a name="m"><img align="center" src="https://img.shields.io/badge/-Typescript-24292e?style=for-the-badge&logo=typescript&logoColor=white" />
 </a>
-<a><img align="center" src="https://img.shields.io/badge/-Python-24292e?style=for-the-badge&logo=python&logoColor=white" />
+<a name="m"><img align="center" src="https://img.shields.io/badge/-Python-24292e?style=for-the-badge&logo=python&logoColor=white" />
 </a>
 <a name="m"><img align="center" src="https://img.shields.io/badge/-PHP-24292e?style=for-the-badge&logo=php&logoColor=white" />
 </a>
