@@ -1,7 +1,8 @@
 Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLabor/MindLabor/master/wave.gif" width="20px">. You probably don't know who I am, so let me give you a brief introduction. My name is Samuel Braun, I live in Germany, and I am 19. I started programming in 2016 and gained experience with different technologies over time 🧰. I am currently working on a <a href="https://mindlabor.dev">website</a> featuring some of my projects in greater detail. 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MindLabor&hide=contribs,prs&count_private=true&show_icons=true" />
+<br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MindLabor&hide=contribs,prs&count_private=true&show_icons=true" /><br/>
 
 
 
@@ -22,8 +23,6 @@ Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLab
 
 
 ## Technologies
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MindLabor&hide=TSQL&layout=compact" />
-
 
 **Languages:**
 <a><img align="center" src="https://img.shields.io/badge/-HTML5-24292e?style=for-the-badge&logo=HTML5&logoColor=white" />
@@ -60,5 +59,8 @@ Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLab
 </a>
 <a><img align="center" src="https://img.shields.io/badge/-Figma-24292e?style=for-the-badge&logo=figma&logoColor=white" />
 </a>
-
-
+<a><img align="center" src="https://img.shields.io/badge/-Git-24292e?style=for-the-badge&logo=git&logoColor=white" />
+</a>
+  
+<br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MindLabor&hide=TSQL&layout=compact" />
