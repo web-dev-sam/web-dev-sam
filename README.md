@@ -48,7 +48,11 @@ Frameworks & Libraries:\
 &nbsp;&nbsp;
 <a name="m"><img align="center" src="https://img.shields.io/badge/-Angular-24292e?style=for-the-badge&logo=angular&logoColor=white" />
 </a>
+<a name="m"><img align="center" src="https://img.shields.io/badge/-Frappe-24292e?style=for-the-badge" />
+</a>
 <a name="m"><img align="center" src="https://img.shields.io/badge/-Processing-24292e?style=for-the-badge" />
+</a>
+<a name="m"><img align="center" src="https://img.shields.io/badge/-jQuery-24292e?style=for-the-badge&logo=jquery&logoColor=white" />
 </a>
 <a name="m"><img align="center" src="https://img.shields.io/badge/-Lodash-24292e?style=for-the-badge&logo=lodash&logoColor=white" />
 </a>
