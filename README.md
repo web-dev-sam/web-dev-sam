@@ -3,7 +3,9 @@ Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLab
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=MindLabor&hide=contribs,prs&count_private=true&show_icons=true" />
 
-## Projects
+
+
+## Main Projects
 <a href="https://github.com/MindLabor/Blog">
   <img align="center" style="flex: 1;" src="https://github-readme-stats.vercel.app/api/pin/?username=MindLabor&repo=Blog" />
 </a>
@@ -15,6 +17,8 @@ Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLab
 <a href="https://github.com/MindLabor/Frac">
   <img align="center" style="flex: 1;" src="https://github-readme-stats.vercel.app/api/pin/?username=MindLabor&repo=Frac" />
 </a>
+
+
 
 
 ## Technologies
@@ -30,13 +34,21 @@ Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLab
 </a>
 <a><img align="center" src="https://img.shields.io/badge/-Typescript-24292e?style=for-the-badge&logo=typescript&logoColor=white" />
 </a>
+<a><img align="center" src="https://img.shields.io/badge/-Python-24292e?style=for-the-badge&logo=python&logoColor=white" />
+</a>
 <a><img align="center" src="https://img.shields.io/badge/-PHP-24292e?style=for-the-badge&logo=php&logoColor=white" />
 </a>
 <a><img align="center" src="https://img.shields.io/badge/-Java-24292e?style=for-the-badge&logo=java&logoColor=white" />
 </a>
 
-**Frameworks:**
+**Frameworks & Libraries:**
 <a><img align="center" src="https://img.shields.io/badge/-Angular-24292e?style=for-the-badge&logo=angular&logoColor=white" />
+</a>
+<a><img align="center" src="https://img.shields.io/badge/-Processing-24292e?style=for-the-badge&logo=processing&logoColor=white" />
+</a>
+<a><img align="center" src="https://img.shields.io/badge/-jQuery-24292e?style=for-the-badge&logo=jquery&logoColor=white" />
+</a>
+<a><img align="center" src="https://img.shields.io/badge/-Lodash-24292e?style=for-the-badge&logo=lodash&logoColor=white" />
 </a>
 
 **Tools:**
