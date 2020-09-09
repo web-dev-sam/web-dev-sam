@@ -21,3 +21,28 @@ Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLab
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MindLabor&hide=TSQL&layout=compact" />
 
 
+Languages:
+<a><img align="center" src="https://img.shields.io/badge/-HTML5-24292e?style=for-the-badge&logo=HTML5" />
+</a>
+<a><img align="center" src="https://img.shields.io/badge/-CSS3-24292e?style=for-the-badge&logo=CSS3" />
+</a>
+<a><img align="center" src="https://img.shields.io/badge/-Javascript-24292e?style=for-the-badge&logo=javascript" />
+</a>
+<a><img align="center" src="https://img.shields.io/badge/-Typescript-24292e?style=for-the-badge&logo=typescript" />
+</a>
+<a><img align="center" src="https://img.shields.io/badge/-PHP-24292e?style=for-the-badge&logo=php" />
+</a>
+<a><img align="center" src="https://img.shields.io/badge/-Java-24292e?style=for-the-badge&logo=java" />
+</a>
+
+Frameworks:
+<a><img align="center" src="https://img.shields.io/badge/-Angular-24292e?style=for-the-badge&logo=angular" />
+</a>
+
+Tools:
+<a><img align="center" src="https://img.shields.io/badge/-VS%20Code-24292e?style=for-the-badge&logo=vs-code" />
+</a>
+<a><img align="center" src="https://img.shields.io/badge/-Figma-24292e?style=for-the-badge&logo=figma" />
+</a>
+
+
