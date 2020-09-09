@@ -2,21 +2,21 @@ Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLab
 
 
 <br/>
-<a name="m"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MindLabor&hide=contribs,prs&count_private=true&show_icons=true&bg_color=30,690EB0,9B2189&text_color=fff&title_color=ffffffbb&icon_color=ffffffbb" /></a><br/>
+<a name="m"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MindLabor&hide=contribs,prs&count_private=true&show_icons=true&bg_color=30,690EB0,9B2189&text_color=fff&title_color=ffffffbb&icon_color=ffffffbb&include_all_commits=true" /></a><br/>
 &nbsp;
 
 
 ## Main Projects
 <a href="https://github.com/MindLabor/Blog">
-  <img align="center" style="flex: 1;" src="https://github-readme-stats.vercel.app/api/pin/?username=MindLabor&repo=Blog&title_color=333" />
+  <img align="center" style="flex: 1;" src="https://github-readme-stats.vercel.app/api/pin/?username=MindLabor&repo=Blog&title_color=333333" />
 </a>
 
 <a href="https://github.com/MindLabor/Skadi">
-  <img align="center" style="flex: 1;" src="https://github-readme-stats.vercel.app/api/pin/?username=MindLabor&repo=Skadi&title_color=333" />
+  <img align="center" style="flex: 1;" src="https://github-readme-stats.vercel.app/api/pin/?username=MindLabor&repo=Skadi&title_color=333333" />
 </a>
 
 <a href="https://github.com/MindLabor/Frac">
-  <img align="center" style="flex: 1;" src="https://github-readme-stats.vercel.app/api/pin/?username=MindLabor&repo=Frac&title_color=333" />
+  <img align="center" style="flex: 1;" src="https://github-readme-stats.vercel.app/api/pin/?username=MindLabor&repo=Frac&title_color=333333" />
 </a><br/>
 &nbsp;
 
@@ -73,4 +73,4 @@ Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLab
 </a><br/>
 &nbsp;
 
-<a name="m"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MindLabor&hide=TSQL,CodeQL&title_color=333" /></a>
+<a name="m"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MindLabor&hide=TSQL,CodeQL&title_color=333&hide_title=true" /></a>
