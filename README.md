@@ -17,8 +17,7 @@ Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLab
 
 <a href="https://github.com/MindLabor/Frac">
   <img align="center" style="flex: 1;" src="https://github-readme-stats.vercel.app/api/pin/?username=MindLabor&repo=Frac" />
-</a>
-
+</a><br/>
 
 
 
