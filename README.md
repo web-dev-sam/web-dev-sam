@@ -21,7 +21,7 @@ Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLab
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MindLabor&hide=TSQL&layout=compact" />
 
 
-Languages:
+**Languages:**
 <a><img align="center" src="https://img.shields.io/badge/-HTML5-24292e?style=for-the-badge&logo=HTML5" />
 </a>
 <a><img align="center" src="https://img.shields.io/badge/-CSS3-24292e?style=for-the-badge&logo=CSS3" />
@@ -35,12 +35,14 @@ Languages:
 <a><img align="center" src="https://img.shields.io/badge/-Java-24292e?style=for-the-badge&logo=java" />
 </a>
 
-Frameworks:
+**Frameworks:**
 <a><img align="center" src="https://img.shields.io/badge/-Angular-24292e?style=for-the-badge&logo=angular" />
 </a>
 
-Tools:
+**Tools:**
 <a><img align="center" src="https://img.shields.io/badge/-VS%20Code-24292e?style=for-the-badge&logo=visual-studio-code" />
+</a>
+<a><img align="center" src="https://img.shields.io/badge/-Intellij%20Idea-24292e?style=for-the-badge&logo=intellij-idea" />
 </a>
 <a><img align="center" src="https://img.shields.io/badge/-Figma-24292e?style=for-the-badge&logo=figma" />
 </a>
