@@ -39,6 +39,8 @@ Languages:\
 </a>
 <a name="m"><img align="center" src="https://img.shields.io/badge/-Java-24292e?style=for-the-badge&logo=java&logoColor=white" />
 </a>
+<a name="m"><img align="center" src="https://img.shields.io/badge/-SQL-24292e?style=for-the-badge&logo=mysql&logoColor=white" />
+</a>
 
 Frameworks & Libraries:\
 &nbsp;&nbsp;
@@ -47,6 +49,8 @@ Frameworks & Libraries:\
 <a name="m"><img align="center" src="https://img.shields.io/badge/-Processing-24292e?style=for-the-badge&logo=processing&logoColor=white" />
 </a>
 <a name="m"><img align="center" src="https://img.shields.io/badge/-jQuery-24292e?style=for-the-badge&logo=jquery&logoColor=white" />
+</a>
+<a name="m"><img align="center" src="https://img.shields.io/badge/-Node%20JS-24292e?style=for-the-badge&logo=node&logoColor=white" />
 </a>
 <a name="m"><img align="center" src="https://img.shields.io/badge/-Lodash-24292e?style=for-the-badge&logo=lodash&logoColor=white" />
 </a>
@@ -62,7 +66,9 @@ Tools:\
 <a name="m"><img align="center" src="https://img.shields.io/badge/-Figma-24292e?style=for-the-badge&logo=figma&logoColor=white" />
 </a>
 <a name="m"><img align="center" src="https://img.shields.io/badge/-Git-24292e?style=for-the-badge&logo=git&logoColor=white" />
+</a>
+<a name="m"><img align="center" src="https://img.shields.io/badge/-Travis CI-24292e?style=for-the-badge&logo=travis-ci&logoColor=white" />
 </a><br/>
 &nbsp;
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MindLabor&hide=TSQL,CodeQL" />
+<a name="m"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MindLabor&hide=TSQL,CodeQL" /></a>
