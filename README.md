@@ -2,13 +2,19 @@ Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLab
 
 
 ## Projects
-<img align="center" style="flex: 1;" src="https://github-readme-stats.vercel.app/api/pin/?username=MindLabor&repo=Blog" />
-<img align="center" style="flex: 1;" src="https://github-readme-stats.vercel.app/api/pin/?username=MindLabor&repo=Skadi" />
-<img align="center" style="flex: 1;" src="https://github-readme-stats.vercel.app/api/pin/?username=MindLabor&repo=Frac" />
+<a href="https://github.com/MindLabor/Blog">
+  <img align="center" style="flex: 1;" src="https://github-readme-stats.vercel.app/api/pin/?username=MindLabor&repo=Blog" />
+</a>
 
+<a href="https://github.com/MindLabor/Skadi">
+  <img align="center" style="flex: 1;" src="https://github-readme-stats.vercel.app/api/pin/?username=MindLabor&repo=Skadi" />
+</a>
+
+<a href="https://github.com/MindLabor/Frac">
+  <img align="center" style="flex: 1;" src="https://github-readme-stats.vercel.app/api/pin/?username=MindLabor&repo=Frac" />
+</a>
 
 ## Stats
-
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MindLabor&hide=TSQL&layout=compact" />
 </a>
