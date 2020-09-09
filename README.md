@@ -23,8 +23,8 @@ Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLab
 
 ## Technologies
 
-Languages:\
-&nbsp;&nbsp;
+&nbsp;&nbsp;Languages:\
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a name="m"><img align="center" src="https://img.shields.io/badge/-HTML5-620BB5?style=for-the-badge&logo=HTML5&logoColor=white" />
 </a>
 <a name="m"><img align="center" src="https://img.shields.io/badge/-CSS3-620BB5?style=for-the-badge&logo=CSS3&logoColor=white" />
@@ -44,8 +44,8 @@ Languages:\
 <a name="m"><img align="center" src="https://img.shields.io/badge/-SQL-620BB5?style=for-the-badge&logo=mysql&logoColor=white" />
 </a>
 
-Frameworks & Libraries:\
-&nbsp;&nbsp;
+&nbsp;&nbsp;Frameworks & Libraries:\
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a name="m"><img align="center" src="https://img.shields.io/badge/-Angular-620BB5?style=for-the-badge&logo=angular&logoColor=white" />
 </a>
 <a name="m"><img align="center" src="https://img.shields.io/badge/-Frappe-620BB5?style=for-the-badge" />
@@ -57,8 +57,8 @@ Frameworks & Libraries:\
 <a name="m"><img align="center" src="https://img.shields.io/badge/-Lodash-620BB5?style=for-the-badge&logo=lodash&logoColor=white" />
 </a>
 
-Tools:\
-&nbsp;&nbsp;
+&nbsp;&nbsp;Tools:\
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a name="m"><img align="center" src="https://img.shields.io/badge/-VS%20Code-620BB5?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </a>
 <a name="m"><img align="center" src="https://img.shields.io/badge/-Intellij%20Idea-620BB5?style=for-the-badge&logo=intellij-idea&logoColor=white" />
