@@ -18,12 +18,12 @@ Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLab
 <a href="https://github.com/MindLabor/Frac">
   <img align="center" style="flex: 1;" src="https://github-readme-stats.vercel.app/api/pin/?username=MindLabor&repo=Frac" />
 </a><br/>
-
+&nbsp;
 
 
 ## Technologies
 
-**Languages:**\
+Languages:\
 &nbsp;&nbsp;
 <a><img align="center" src="https://img.shields.io/badge/-HTML5-24292e?style=for-the-badge&logo=HTML5&logoColor=white" />
 </a>
@@ -40,7 +40,7 @@ Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLab
 <a><img align="center" src="https://img.shields.io/badge/-Java-24292e?style=for-the-badge&logo=java&logoColor=white" />
 </a>
 
-**Frameworks & Libraries:**\
+Frameworks & Libraries:\
 &nbsp;&nbsp;
 <a><img align="center" src="https://img.shields.io/badge/-Angular-24292e?style=for-the-badge&logo=angular&logoColor=white" />
 </a>
@@ -51,7 +51,7 @@ Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLab
 <a><img align="center" src="https://img.shields.io/badge/-Lodash-24292e?style=for-the-badge&logo=lodash&logoColor=white" />
 </a>
 
-**Tools:**\
+Tools:\
 &nbsp;&nbsp;
 <a><img align="center" src="https://img.shields.io/badge/-VS%20Code-24292e?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </a>
@@ -65,4 +65,4 @@ Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLab
 </a><br/>
 &nbsp;
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MindLabor&hide=TSQL&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MindLabor&hide=TSQL,CodeQL" />
