@@ -3,12 +3,9 @@ Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLab
 
 ## Projects
 
-<div style="display: flex;">
-  <img align="center" style="flex: 1;" src="https://github-readme-stats.vercel.app/api/pin/?username=MindLabor&repo=Skadi" />
-  <div style="flex: 1;">Hi<div>
-</div>
-
-
+#### Skadi
+<img align="center" style="flex: 1;" src="https://github-readme-stats.vercel.app/api/pin/?username=MindLabor&repo=Skadi" />
+Skadi is a bot for the messaging platform Discord that streams music from YouTube directly to a voice channel.
 
 
 
