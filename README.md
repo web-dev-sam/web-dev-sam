@@ -40,7 +40,7 @@ Frameworks:
 </a>
 
 Tools:
-<a><img align="center" src="https://img.shields.io/badge/-VS%20Code-24292e?style=for-the-badge&logo=vs-code" />
+<a><img align="center" src="https://img.shields.io/badge/-VS%20Code-24292e?style=for-the-badge&logo=visual-studio-code" />
 </a>
 <a><img align="center" src="https://img.shields.io/badge/-Figma-24292e?style=for-the-badge&logo=figma" />
 </a>
