@@ -8,15 +8,15 @@ Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLab
 
 ## Main Projects
 <a href="https://github.com/MindLabor/Blog">
-  <img align="center" style="flex: 1;" src="https://github-readme-stats.vercel.app/api/pin/?username=MindLabor&repo=Blog&bg_color=30,690EB0,9B2189&text_color=fff&title_color=ffffffbb&icon_color=ffffffbb" />
+  <img align="center" style="flex: 1;" src="https://github-readme-stats.vercel.app/api/pin/?username=MindLabor&repo=Blog" />
 </a>
 
 <a href="https://github.com/MindLabor/Skadi">
-  <img align="center" style="flex: 1;" src="https://github-readme-stats.vercel.app/api/pin/?username=MindLabor&repo=Skadi&bg_color=30,690EB0,9B2189&text_color=fff&title_color=ffffffbb&icon_color=ffffffbb" />
+  <img align="center" style="flex: 1;" src="https://github-readme-stats.vercel.app/api/pin/?username=MindLabor&repo=Skadi" />
 </a>
 
 <a href="https://github.com/MindLabor/Frac">
-  <img align="center" style="flex: 1;" src="https://github-readme-stats.vercel.app/api/pin/?username=MindLabor&repo=Frac&bg_color=30,690EB0,9B2189&text_color=fff&title_color=ffffffbb&icon_color=ffffffbb" />
+  <img align="center" style="flex: 1;" src="https://github-readme-stats.vercel.app/api/pin/?username=MindLabor&repo=Frac" />
 </a><br/>
 &nbsp;
 
@@ -73,4 +73,4 @@ Tools:\
 </a><br/>
 &nbsp;
 
-<a name="m"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MindLabor&hide=TSQL,CodeQL&bg_color=30,690EB0,9B2189&text_color=fff&title_color=ffffffbb&icon_color=ffffffbb" /></a>
+<a name="m"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MindLabor&hide=TSQL,CodeQL" /></a>
