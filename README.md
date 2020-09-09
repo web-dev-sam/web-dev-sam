@@ -22,29 +22,31 @@ Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLab
 
 
 **Languages:**
-<a><img align="center" src="https://img.shields.io/badge/-HTML5-24292e?style=for-the-badge&logo=HTML5" />
+<a><img align="center" src="https://img.shields.io/badge/-HTML5-24292e?style=for-the-badge&logo=HTML5&logoColor=white" />
 </a>
-<a><img align="center" src="https://img.shields.io/badge/-CSS3-24292e?style=for-the-badge&logo=CSS3" />
+<a><img align="center" src="https://img.shields.io/badge/-CSS3-24292e?style=for-the-badge&logo=CSS3&logoColor=white" />
 </a>
-<a><img align="center" src="https://img.shields.io/badge/-Javascript-24292e?style=for-the-badge&logo=javascript" />
+<a><img align="center" src="https://img.shields.io/badge/-Javascript-24292e?style=for-the-badge&logo=javascript&logoColor=white" />
 </a>
-<a><img align="center" src="https://img.shields.io/badge/-Typescript-24292e?style=for-the-badge&logo=typescript" />
+<a><img align="center" src="https://img.shields.io/badge/-Typescript-24292e?style=for-the-badge&logo=typescript&logoColor=white" />
 </a>
-<a><img align="center" src="https://img.shields.io/badge/-PHP-24292e?style=for-the-badge&logo=php" />
+<a><img align="center" src="https://img.shields.io/badge/-PHP-24292e?style=for-the-badge&logo=php&logoColor=white" />
 </a>
-<a><img align="center" src="https://img.shields.io/badge/-Java-24292e?style=for-the-badge&logo=java" />
+<a><img align="center" src="https://img.shields.io/badge/-Java-24292e?style=for-the-badge&logo=java&logoColor=white" />
 </a>
 
 **Frameworks:**
-<a><img align="center" src="https://img.shields.io/badge/-Angular-24292e?style=for-the-badge&logo=angular" />
+<a><img align="center" src="https://img.shields.io/badge/-Angular-24292e?style=for-the-badge&logo=angular&logoColor=white" />
 </a>
 
 **Tools:**
-<a><img align="center" src="https://img.shields.io/badge/-VS%20Code-24292e?style=for-the-badge&logo=visual-studio-code" />
+<a><img align="center" src="https://img.shields.io/badge/-VS%20Code-24292e?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </a>
-<a><img align="center" src="https://img.shields.io/badge/-Intellij%20Idea-24292e?style=for-the-badge&logo=intellij-idea" />
+<a><img align="center" src="https://img.shields.io/badge/-Intellij%20Idea-24292e?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </a>
-<a><img align="center" src="https://img.shields.io/badge/-Figma-24292e?style=for-the-badge&logo=figma" />
+<a><img align="center" src="https://img.shields.io/badge/-Eclipse-24292e?style=for-the-badge&logo=eclipse&logoColor=white" />
+</a>
+<a><img align="center" src="https://img.shields.io/badge/-Figma-24292e?style=for-the-badge&logo=figma&logoColor=white" />
 </a>
 
 
