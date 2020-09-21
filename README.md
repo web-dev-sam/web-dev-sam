@@ -44,7 +44,7 @@ Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLab
 <a name="m"><img align="center" src="https://img.shields.io/badge/-SQL-620BB5?style=for-the-badge&logo=mysql&logoColor=white" />
 </a><br/>
 
-<a name="m"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MindLabor&hide=TSQL,CodeQL&title_color=333&hide_title=true&upd=0" /></a>
+<a name="m"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MindLaborDev&hide=TSQL,CodeQL&title_color=333&hide_title=true&upd=0" /></a>
 
 &nbsp;&nbsp;Frameworks & Libraries:\
 &nbsp;&nbsp;&nbsp;&nbsp;
