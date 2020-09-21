@@ -11,12 +11,12 @@ Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLab
   <img align="center" style="flex: 1;" src="https://github-readme-stats.vercel.app/api/pin/?username=MindLabor&repo=Blog&title_color=333333" />
 </a>
 
-<a href="https://github.com/MindLabor/Skadi">
-  <img align="center" style="flex: 1;" src="https://github-readme-stats.vercel.app/api/pin/?username=MindLabor&repo=Skadi&title_color=333333" />
+<a href="https://github.com/MindLaborDev/Skadi">
+  <img align="center" style="flex: 1;" src="https://github-readme-stats.vercel.app/api/pin/?username=MindLaborDev&repo=Skadi&title_color=333333" />
 </a>
 
-<a href="https://github.com/MindLabor/Frac">
-  <img align="center" style="flex: 1;" src="https://github-readme-stats.vercel.app/api/pin/?username=MindLabor&repo=Frac&title_color=333333" />
+<a href="https://github.com/MindLaborDev/Frac">
+  <img align="center" style="flex: 1;" src="https://github-readme-stats.vercel.app/api/pin/?username=MindLaborDev&repo=Frac&title_color=333333" />
 </a><br/>
 &nbsp;
 
