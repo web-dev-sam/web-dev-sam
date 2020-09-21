@@ -2,7 +2,7 @@ Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLab
 
 
 <br/>
-<a name="m"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MindLabor&hide=contribs,prs&count_private=true&show_icons=true&bg_color=30,690EB0,9B2189&text_color=fff&title_color=ffffffbb&icon_color=ffffffbb&include_all_commits=true&hide_rank=true" /></a><br/>
+<a name="m"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MindLaborDev&hide=contribs,prs&count_private=true&show_icons=true&bg_color=30,690EB0,9B2189&text_color=fff&title_color=ffffffbb&icon_color=ffffffbb&include_all_commits=true&hide_rank=true" /></a><br/>
 &nbsp;
 
 
