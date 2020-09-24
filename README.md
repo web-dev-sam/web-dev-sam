@@ -1,11 +1,6 @@
 Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLabor/MindLabor/master/wave.gif" width="20px">. You probably don't know who I am, so let me give you a brief introduction. My name is Samuel Braun, I live in Germany, and I am 19. I started programming in 2016 and gained experience with different technologies over time 🧰. I am currently working on a <a href="https://mindlabor.dev">website</a> featuring some of my projects in greater detail. 
 
 
-<br/>
-<a name="m"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MindLaborDev&hide=contribs,prs&count_private=true&show_icons=true&bg_color=30,690EB0,9B2189&text_color=fff&title_color=ffffffbb&icon_color=ffffffbb&include_all_commits=true&hide_rank=true" /></a><br/>
-&nbsp;
-
-
 ## Main Projects
 <a href="https://github.com/MindLabor/Blog">
   <img align="center" style="flex: 1;" src="https://github-readme-stats.vercel.app/api/pin/?username=MindLabor&repo=Blog&title_color=333333" />
