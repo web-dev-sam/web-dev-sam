@@ -2,7 +2,7 @@ Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLab
 
 
 ## Main Projects
-<a href="https://github.com/MindLabor/mindlabor.dev">
+<a href="https://github.com/MindLabor/mindlabor%2Edev">
   <img align="center" style="flex: 1;" src="https://github-readme-stats.vercel.app/api/pin/?username=MindLabor&repo=Blog&title_color=333333" />
 </a>
 
