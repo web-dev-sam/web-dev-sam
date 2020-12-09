@@ -13,8 +13,6 @@ Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLab
 
 ## Technologies
 
-&nbsp;&nbsp;Languages:\
-&nbsp;&nbsp;&nbsp;&nbsp;
 <a name="m"><img align="center" src="https://img.shields.io/badge/-HTML5-620BB5?style=for-the-badge&logo=HTML5&logoColor=white" />
 </a>
 <a name="m"><img align="center" src="https://img.shields.io/badge/-CSS3-620BB5?style=for-the-badge&logo=CSS3&logoColor=white" />
@@ -32,10 +30,7 @@ Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLab
 <a name="m"><img align="center" src="https://img.shields.io/badge/-Java-620BB5?style=for-the-badge&logo=java&logoColor=white" />
 </a>
 <a name="m"><img align="center" src="https://img.shields.io/badge/-SQL-620BB5?style=for-the-badge&logo=mysql&logoColor=white" />
-</a><br/>
-
-&nbsp;&nbsp;Frameworks & Libraries:\
-&nbsp;&nbsp;&nbsp;&nbsp;
+</a>
 <a name="m"><img align="center" src="https://img.shields.io/badge/-Angular-620BB5?style=for-the-badge&logo=angular&logoColor=white" />
 </a>
 <a name="m"><img align="center" src="https://img.shields.io/badge/-Frappe-620BB5?style=for-the-badge" />
@@ -46,9 +41,6 @@ Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLab
 </a>
 <a name="m"><img align="center" src="https://img.shields.io/badge/-Lodash-620BB5?style=for-the-badge&logo=lodash&logoColor=white" />
 </a>
-
-&nbsp;&nbsp;Tools:\
-&nbsp;&nbsp;&nbsp;&nbsp;
 <a name="m"><img align="center" src="https://img.shields.io/badge/-VS%20Code-620BB5?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </a>
 <a name="m"><img align="center" src="https://img.shields.io/badge/-Intellij%20Idea-620BB5?style=for-the-badge&logo=intellij-idea&logoColor=white" />
@@ -60,6 +52,5 @@ Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLab
 <a name="m"><img align="center" src="https://img.shields.io/badge/-Git-620BB5?style=for-the-badge&logo=git&logoColor=white" />
 </a>
 <a name="m"><img align="center" src="https://img.shields.io/badge/-Travis CI-620BB5?style=for-the-badge&logo=travis-ci&logoColor=white" />
-</a><br/>
-&nbsp;
+</a>
 
