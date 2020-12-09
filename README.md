@@ -7,7 +7,8 @@ Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLab
 <br>
 <a href="https://mindlabor.dev/">
   <img align="center" src="https://img.shields.io/badge/-Website%20with%20Markdown%20CMS-blueviolet" />
-</a>
+</a><br>
+&nbsp;
 
 
 ## Technologies
