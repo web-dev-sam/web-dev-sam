@@ -9,20 +9,6 @@ Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLab
   <img align="center" src="https://img.shields.io/badge/-Website%20with%20Markdown%20CMS-blueviolet" />
 </a>
 
-## Main Projects
-<a href="https://github.com/MindLabor/mindlabor.dev">
-  <img align="center" style="flex: 1;" src="https://github-readme-stats.vercel.app/api/pin/?username=MindLabor&repo=mindlabor.dev&title_color=333333&" />
-</a>
-
-<a href="https://github.com/MindLaborDev/Skadi">
-  <img align="center" style="flex: 1;" src="https://github-readme-stats.vercel.app/api/pin/?username=MindLaborDev&repo=Skadi&title_color=333333&" />
-</a>
-
-<a href="https://github.com/MindLaborDev/Frac">
-  <img align="center" style="flex: 1;" src="https://github-readme-stats.vercel.app/api/pin/?username=MindLaborDev&repo=Frac&title_color=333333&" />
-</a><br/>
-&nbsp;
-
 
 ## Technologies
 
