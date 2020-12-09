@@ -3,10 +3,12 @@ Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLab
 ## Live Demos
 <a href="https://mindlabordev.github.io/Frac/">
   <img align="center" src="https://img.shields.io/badge/-Mandelbrot%20Viewer-blueviolet" />
-</a>
-<br>
+</a><br>
 <a href="https://mindlabor.dev/">
   <img align="center" src="https://img.shields.io/badge/-Markdown%20CMS-blueviolet" />
+</a><br>
+<a href="https://mindlabordev.github.io/DFT-Machine/">
+  <img align="center" src="https://img.shields.io/badge/-DFT%20Machine-blueviolet" />
 </a><br>
 &nbsp;
 
