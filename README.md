@@ -17,19 +17,31 @@ Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLab
 
 <a name="m"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/html5.svg" />
 </a>
-<a name="m"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/_.svg" />
+<a name="m"><img align="center" width="8" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/_.svg" />
 </a>
 <a name="m"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/css-3.svg" />
 </a>
+<a name="m"><img align="center" width="8" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/_.svg" />
+</a>
 <a name="m"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/typescript.svg" />
+</a>
+<a name="m"><img align="center" width="8" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/_.svg" />
 </a>
 <a name="m"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/js.svg" />
 </a>
+<a name="m"><img align="center" width="8" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/_.svg" />
+</a>
 <a name="m"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/angular.svg" />
+</a>
+<a name="m"><img align="center" width="8" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/_.svg" />
 </a>
 <a name="m"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/sass.svg" />
 </a>
+<a name="m"><img align="center" width="8" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/_.svg" />
+</a>
 <a name="m"><img align="center" height="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/figma.svg" />
+</a>
+<a name="m"><img align="center" width="8" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/_.svg" />
 </a>
 <a name="m"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/git.svg" />
 </a>
@@ -38,9 +50,15 @@ Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLab
 
 <a name="m"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/python.svg" />
 </a>
+<a name="m"><img align="center" width="8" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/_.svg" />
+</a>
 <a name="m"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/java.svg" />
 </a>
+<a name="m"><img align="center" width="8" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/_.svg" />
+</a>
 <a name="m"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/php.svg" />
+</a>
+<a name="m"><img align="center" width="8" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/_.svg" />
 </a>
 <a name="m"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/database.svg" />
 </a>
@@ -48,7 +66,11 @@ Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLab
 
 <a name="m"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/erpnext.svg" />
 </a>
+<a name="m"><img align="center" width="8" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/_.svg" />
+</a>
 <a name="m"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/processing.svg" />
+</a>
+<a name="m"><img align="center" width="8" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/_.svg" />
 </a>
 <a name="m"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/jquery.svg" />
 </a>
