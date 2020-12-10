@@ -2,13 +2,13 @@ Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLab
 
 ## Live Demos
 <a href="https://mindlabordev.github.io/Frac/">
-  <img align="center" src="https://img.shields.io/badge/-Mandelbrot%20Viewer-blueviolet" />
-</a><br>
+  <img align="center" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/preview/frac.svg" />
+</a>
 <a href="https://mindlabor.dev/">
-  <img align="center" src="https://img.shields.io/badge/-Markdown%20CMS-blueviolet" />
-</a><br>
+  <img align="center" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/preview/cms.svg" />
+</a>
 <a href="https://mindlabordev.github.io/DFT-Machine/">
-  <img align="center" src="https://img.shields.io/badge/-DFT%20Machine-blueviolet" />
+  <img align="center" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/preview/dft.svg" />
 </a><br>
 &nbsp;
 
