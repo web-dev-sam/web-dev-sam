@@ -1,4 +1,5 @@
 Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLabor/MindLabor/master/wave.gif" width="20px">. You probably don't know who I am, so let me give you a brief introduction. My name is Samuel Braun, I live in Germany, and I am 19. I started programming in 2016 and gained experience with different technologies over time 🧰.
+&nbsp;<br>&nbsp;
 
 ## Live Demos
 <a href="https://mindlabordev.github.io/Frac/">
