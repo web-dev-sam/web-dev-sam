@@ -25,17 +25,17 @@ Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLab
 </a>
 <a name="m"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/typescript.svg" />
 </a>
-<a name="m"><img align="center" src="https://img.shields.io/badge/-Python-620BB5?style=for-the-badge&logo=python&logoColor=white" />
+<a name="m"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/python.svg" />
 </a>
-<a name="m"><img align="center" src="https://img.shields.io/badge/-PHP-620BB5?style=for-the-badge&logo=php&logoColor=white" />
+<a name="m"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/php.svg" />
 </a>
 <a name="m"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/java.svg" />
 </a>
-<a name="m"><img align="center" src="https://img.shields.io/badge/-SQL-620BB5?style=for-the-badge&logo=mysql&logoColor=white" />
+<a name="m"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/database.svg" />
 </a>
 <a name="m"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/angular.svg" />
 </a>
-<a name="m"><img align="center" src="https://img.shields.io/badge/-Frappe-620BB5?style=for-the-badge" />
+<a name="m"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/erpnext.svg" />
 </a>
 <a name="m"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/processing.svg" />
 </a>
