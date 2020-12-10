@@ -31,7 +31,7 @@ Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLab
 </a>
 <a name="m"><img align="center" width="8" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/_.svg" />
 </a>
-<a name="m"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/angular.svg" />
+<a name="m" href="https://angular.io/"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/angular.svg" />
 </a>
 <a name="m"><img align="center" width="8" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/_.svg" />
 </a>
@@ -39,7 +39,7 @@ Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLab
 </a>
 <a name="m"><img align="center" width="8" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/_.svg" />
 </a>
-<a name="m"><img align="center" height="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/figma.svg" />
+<a name="m" href="https://www.figma.com/"><img align="center" height="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/figma.svg" />
 </a>
 <a name="m"><img align="center" width="8" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/_.svg" />
 </a>
@@ -60,18 +60,18 @@ Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLab
 </a>
 <a name="m"><img align="center" width="8" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/_.svg" />
 </a>
-<a name="m"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/database.svg" />
+<a name="m" href="https://www.mysql.com/"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/database.svg" />
 </a>
 
 
-<a name="m"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/erpnext.svg" />
+<a name="m" href="https://erpnext.com/"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/erpnext.svg" />
 </a>
 <a name="m"><img align="center" width="8" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/_.svg" />
 </a>
-<a name="m"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/processing.svg" />
+<a name="m" href="https://processing.org/"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/processing.svg" />
 </a>
 <a name="m"><img align="center" width="8" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/_.svg" />
 </a>
-<a name="m"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/jquery.svg" />
+<a name="m" href="https://jquery.com/"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/jquery.svg" />
 </a>
 
