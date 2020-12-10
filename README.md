@@ -51,7 +51,7 @@ Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLab
 </a>
 <a name="m"><img align="center" src="https://img.shields.io/badge/-Figma-620BB5?style=for-the-badge&logo=figma&logoColor=white" />
 </a>
-<a name="m"><img align="center" src="https://img.shields.io/badge/-Git-620BB5?style=for-the-badge&logo=git&logoColor=white" />
+<a name="m"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/git.svg" />
 </a>
 <a name="m"><img align="center" src="https://img.shields.io/badge/-Travis CI-620BB5?style=for-the-badge&logo=travis-ci&logoColor=white" />
 </a>
