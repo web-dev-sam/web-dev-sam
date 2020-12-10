@@ -15,44 +15,41 @@ Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLab
 
 ## Technologies
 
-<a name="m"><img align="center" src="https://img.shields.io/badge/-HTML5-620BB5?style=for-the-badge&logo=HTML5&logoColor=white" />
+<a name="m"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/html5.svg" />
 </a>
-<a name="m"><img align="center" src="https://img.shields.io/badge/-CSS3-620BB5?style=for-the-badge&logo=CSS3&logoColor=white" />
+<a name="m"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/_.svg" />
 </a>
-<a name="m"><img align="center" src="https://img.shields.io/badge/-SASS-620BB5?style=for-the-badge&logo=sass&logoColor=white" />
+<a name="m"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/css-3.svg" />
 </a>
-<a name="m"><img align="center" src="https://img.shields.io/badge/-Javascript-620BB5?style=for-the-badge&logo=javascript&logoColor=white" />
+<a name="m"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/typescript.svg" />
 </a>
-<a name="m"><img align="center" src="https://img.shields.io/badge/-Typescript-620BB5?style=for-the-badge&logo=typescript&logoColor=white" />
+<a name="m"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/js.svg" />
 </a>
-<a name="m"><img align="center" src="https://img.shields.io/badge/-Python-620BB5?style=for-the-badge&logo=python&logoColor=white" />
+<a name="m"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/sass.svg" />
 </a>
-<a name="m"><img align="center" src="https://img.shields.io/badge/-PHP-620BB5?style=for-the-badge&logo=php&logoColor=white" />
+<a name="m"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/angular.svg" />
 </a>
-<a name="m"><img align="center" src="https://img.shields.io/badge/-Java-620BB5?style=for-the-badge&logo=java&logoColor=white" />
+<a name="m"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/figma.svg" />
 </a>
-<a name="m"><img align="center" src="https://img.shields.io/badge/-SQL-620BB5?style=for-the-badge&logo=mysql&logoColor=white" />
+<a name="m"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/git.svg" />
 </a>
-<a name="m"><img align="center" src="https://img.shields.io/badge/-Angular-620BB5?style=for-the-badge&logo=angular&logoColor=white" />
+
+
+
+<a name="m"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/python.svg" />
 </a>
-<a name="m"><img align="center" src="https://img.shields.io/badge/-Frappe-620BB5?style=for-the-badge" />
+<a name="m"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/java.svg" />
 </a>
-<a name="m"><img align="center" src="https://img.shields.io/badge/-Processing-620BB5?style=for-the-badge" />
+<a name="m"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/php.svg" />
 </a>
-<a name="m"><img align="center" src="https://img.shields.io/badge/-jQuery-620BB5?style=for-the-badge&logo=jquery&logoColor=white" />
+<a name="m"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/database.svg" />
 </a>
-<a name="m"><img align="center" src="https://img.shields.io/badge/-Lodash-620BB5?style=for-the-badge&logo=lodash&logoColor=white" />
+
+
+<a name="m"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/erpnext.svg" />
 </a>
-<a name="m"><img align="center" src="https://img.shields.io/badge/-VS%20Code-620BB5?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<a name="m"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/processing.svg" />
 </a>
-<a name="m"><img align="center" src="https://img.shields.io/badge/-Intellij%20Idea-620BB5?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-</a>
-<a name="m"><img align="center" src="https://img.shields.io/badge/-Eclipse-620BB5?style=for-the-badge&logo=eclipse&logoColor=white" />
-</a>
-<a name="m"><img align="center" src="https://img.shields.io/badge/-Figma-620BB5?style=for-the-badge&logo=figma&logoColor=white" />
-</a>
-<a name="m"><img align="center" src="https://img.shields.io/badge/-Git-620BB5?style=for-the-badge&logo=git&logoColor=white" />
-</a>
-<a name="m"><img align="center" src="https://img.shields.io/badge/-Travis CI-620BB5?style=for-the-badge&logo=travis-ci&logoColor=white" />
+<a name="m"><img align="center" width="32" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/jquery.svg" />
 </a>
 
