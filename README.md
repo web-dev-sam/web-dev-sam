@@ -83,3 +83,5 @@ Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLab
 <a name="m" href="https://jquery.com/"><img align="center" width="28" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/jquery.svg" />
 </a>
 
+&nbsp;<br>&nbsp;
+
