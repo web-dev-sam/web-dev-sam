@@ -14,68 +14,31 @@ Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLab
 
 &nbsp;<br>&nbsp;
 
+## Things I use the most
 
-## Technologies
+**Languages:** 
+* JavaScript
+* TypeScript
+* HTML
+* SCSS/CSS
+* Python
+* PHP
+* Processing
 
-<a name="m"><img align="center" width="28" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/html5.svg" />
-</a>
-<a name="m"><img align="center" width="8" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/_.svg" />
-</a>
-<a name="m"><img align="center" width="28" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/css-3.svg" />
-</a>
-<a name="m"><img align="center" width="8" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/_.svg" />
-</a>
-<a name="m"><img align="center" width="28" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/typescript.svg" />
-</a>
-<a name="m"><img align="center" width="8" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/_.svg" />
-</a>
-<a name="m"><img align="center" width="28" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/js.svg" />
-</a>
-<a name="m"><img align="center" width="8" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/_.svg" />
-</a>
-<a name="m" href="https://angular.io/"><img align="center" width="28" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/angular.svg" />
-</a>
-<a name="m"><img align="center" width="8" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/_.svg" />
-</a>
-<a name="m"><img align="center" width="28" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/sass.svg" />
-</a>
-<a name="m"><img align="center" width="8" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/_.svg" />
-</a>
-<a name="m" href="https://www.figma.com/"><img align="center" height="28" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/figma.svg" />
-</a>
-<a name="m"><img align="center" width="8" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/_.svg" />
-</a>
-<a name="m"><img align="center" width="28" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/gitt.svg" />
-</a>
+**Frameworks:** 
+* Frappe/Erpnext
+* Angular
+
+**Libraries:** 
+* JQuery
+
+**Programs:** 
+* VSCode (Editor)
+* Insomnia (HTTP Requests)
+* Figma (Design Tool)
+* Vercel (Frontend Deployment)
 
 
-
-<a name="m"><img align="center" width="28" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/python.svg" />
-</a>
-<a name="m"><img align="center" width="8" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/_.svg" />
-</a>
-<a name="m"><img align="center" width="28" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/java.svg" />
-</a>
-<a name="m"><img align="center" width="8" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/_.svg" />
-</a>
-<a name="m"><img align="center" width="28" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/php.svg" />
-</a>
-<a name="m"><img align="center" width="8" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/_.svg" />
-</a>
-<a name="m" href="https://www.mysql.com/"><img align="center" width="28" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/database.svg" />
-</a>
-
-
-<a name="m" href="https://erpnext.com/"><img align="center" width="28" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/erpnext.svg" />
-</a>
-<a name="m"><img align="center" width="8" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/_.svg" />
-</a>
-<a name="m" href="https://processing.org/"><img align="center" width="28" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/processing.svg" />
-</a>
-<a name="m"><img align="center" width="8" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/_.svg" />
-</a>
-<a name="m" href="https://jquery.com/"><img align="center" width="28" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/icons/jquery.svg" />
-</a>
 
 &nbsp;<br>&nbsp;
 
