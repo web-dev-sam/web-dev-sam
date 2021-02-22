@@ -16,7 +16,7 @@ Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLab
 
 ## Things I use the most
 
-**Languages:** 
+### **Languages:** 
 * JavaScript
 * TypeScript
 * HTML
@@ -24,15 +24,18 @@ Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLab
 * Python
 * PHP
 * Processing
+&nbsp;<br>&nbsp;
 
-**Frameworks:** 
+### **Frameworks:** 
 * Frappe/Erpnext
 * Angular
+&nbsp;<br>&nbsp;
 
-**Libraries:** 
+### **Libraries:** 
 * JQuery
+&nbsp;<br>&nbsp;
 
-**Programs:** 
+### **Programs:** 
 * VSCode (Editor)
 * Insomnia (HTTP Requests)
 * Figma (Design Tool)
