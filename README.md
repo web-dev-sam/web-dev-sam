@@ -1,6 +1,5 @@
 Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLabor/MindLabor/master/wave.gif" width="20px">. Have a look at some things I've created; you might find something useful or interesting 😁.
 
-&nbsp;<br>&nbsp;
 
 ## Live Demos
 <a href="https://mindlabordev.github.io/Frac/">
