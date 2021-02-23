@@ -2,7 +2,7 @@ Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MindLab
 
 
 ## Live Demos
-<a href="https://mindlabordev.github.io/Frac/">
+<a href="https://mind-frac.vercel.app/">
   <img align="center" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/preview/frac.svg" />
 </a>
 
