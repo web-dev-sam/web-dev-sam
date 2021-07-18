@@ -41,35 +41,3 @@
 
 &nbsp;<br>&nbsp;
 
-## Things I use the most
-
-### **Languages:** 
-* JavaScript
-* TypeScript
-* HTML
-* SCSS/CSS
-* Python
-* PHP
-* Processing
-&nbsp;<br>&nbsp;
-
-### **Frameworks:** 
-* Frappe/Erpnext
-* Angular
-&nbsp;<br>&nbsp;
-
-### **Libraries:** 
-* JQuery
-* P5.js
-&nbsp;<br>&nbsp;
-
-### **Programs:** 
-* VSCode (Editor)
-* Insomnia (HTTP Requests)
-* Figma (Design Tool)
-* Vercel (Frontend Deployment)
-
-
-
-&nbsp;<br>&nbsp;
-
