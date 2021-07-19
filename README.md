@@ -21,7 +21,7 @@
 
   &nbsp;<br>&nbsp;
 
-  <a href="https://github.com/MindLaborDev/bonza-commit">
+  <a href="https://github.com/Difinition-of-Done/bonza-commit">
     <img align="center" width="600" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/preview/Group 6.png" />
   </a>
 
