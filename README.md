@@ -13,6 +13,14 @@
     <img width="600" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/preview/Group 5.png" />
   </a>
   
+
+  &nbsp;<br>&nbsp;
+
+  <a href="https://mindlabordev.github.io/DFT-Machine/">
+    <img align="center" width="600" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/preview/Group 4.png" />
+  </a>
+
+  
   &nbsp;<br>&nbsp;
 
   <a href="https://github.com/MindLaborDev/gpt3-discord-chatbot">
@@ -30,13 +38,6 @@
   <a href="https://github.com/MindLaborDev/skadi">
     <img align="center" width="600" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/preview/Group 1.png" />
   </a>
-
-  &nbsp;<br>&nbsp;
-
-  <a href="https://mindlabordev.github.io/DFT-Machine/">
-    <img align="center" width="600" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/preview/Group 4.png" />
-  </a>
-
 </div>
 
 &nbsp;<br>&nbsp;
