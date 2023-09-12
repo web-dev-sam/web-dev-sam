@@ -5,9 +5,9 @@ if __name__ == "__main__":
 	articles = json.loads(os.environ["ARTICLES"])
 	
 	# Assuming each article has 'title', 'url', 'description', 'public_reactions_count', 'comments_count', and optionally 'cover_image'
-	articles_html = "<table>\n"
+	articles_html = '<table style="border-collapse: collapse; width: 100%;">\n'
 	for i in range(0, min(4, len(articles)), 2):  # Loop through 4 articles, 2 at a time
-		articles_html += "<tr>\n"
+		articles_html += '<tr style="border: none;">\n'
 		for j in range(2):
 			if i + j < len(articles):
 				article = articles[i + j]
@@ -18,17 +18,17 @@ if __name__ == "__main__":
 				comments = article['comments_count']
 				image = article.get('cover_image', '')  # Use cover_image if it exists, else use an empty string
 				articles_html += f'''
-<td align="center" width="50%">
-	<a href="{url}">
-		<img src="{image}" alt="{title}" style="max-width:100%;">
-	</a>
-	<h3><a href="{url}">{title}</a></h3>
-	<p>{description}</p>
-	<p>👍 {likes} &nbsp; 💬 {comments}</p>
-</td>
-'''
-		articles_html += "</tr>\n"
-	articles_html += "</table>\n"
+	<td align="center" width="50%" style="border: none; padding: 10px;">
+		<a href="{url}">
+			<img src="{image}" alt="{title}" style="max-width:100%;">
+		</a>
+		<h3><a href="{url}">{title}</a></h3>
+		<p>{description}</p>
+		<p>👍 {likes} &nbsp; 💬 {comments}</p>
+	</td>
+	'''
+		articles_html += '</tr>\n'
+	articles_html += '</table>\n'
 
 	readme = f"""
 <div align="center">
