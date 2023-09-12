@@ -18,7 +18,7 @@ if __name__ == "__main__":
 		articles_html += "</tr>\n"
 	articles_html += "</table>\n"
 
-		readme = f"""
+	readme = f"""
 		<div align="center">
 			<h2>Welcome to my GitHub profile.</h2>
 			<br>
