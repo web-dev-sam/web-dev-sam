@@ -66,8 +66,6 @@ Tools I use most often.
 &nbsp;<br>&nbsp;
 
 <h2>Dev.To Articles</h2>
-
-<h2>Dev.To Articles</h2>
 {articles_html}
 
 &nbsp;<br>&nbsp;
