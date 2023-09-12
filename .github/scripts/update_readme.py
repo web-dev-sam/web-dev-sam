@@ -2,24 +2,24 @@ import os
 import json
 
 if __name__ == "__main__":
-    articles = json.loads(os.environ["ARTICLES"])
-    
-    # Assuming each article has a 'title', 'url', and optionally an 'cover_image'
-    articles_html = "<table>\n"
-    for i in range(0, min(4, len(articles)), 2):  # Loop through 4 articles, 2 at a time
-        articles_html += "<tr>\n"
-        for j in range(2):
-            if i + j < len(articles):
-                article = articles[i + j]
-                title = article['title']
-                url = article['url']
-                image = article.get('cover_image', '')  # Use cover_image if it exists, else use an empty string
-                articles_html += f'<td align="center" width="50%"><a href="{url}"><img src="{image}" alt="{title}" style="max-width:100%;"><br>{title}</a></td>\n'
-        articles_html += "</tr>\n"
-    articles_html += "</table>\n"
+	articles = json.loads(os.environ["ARTICLES"])
+	
+	# Assuming each article has a 'title', 'url', and optionally an 'cover_image'
+	articles_html = "<table>\n"
+	for i in range(0, min(4, len(articles)), 2):  # Loop through 4 articles, 2 at a time
+		articles_html += "<tr>\n"
+		for j in range(2):
+			if i + j < len(articles):
+				article = articles[i + j]
+				title = article['title']
+				url = article['url']
+				image = article.get('cover_image', '')  # Use cover_image if it exists, else use an empty string
+				articles_html += f'<td align="center" width="50%"><a href="{url}"><img src="{image}" alt="{title}" style="max-width:100%;"><br>{title}</a></td>\n'
+		articles_html += "</tr>\n"
+	articles_html += "</table>\n"
 
-        readme = f"""
-    <div align="center">
+		readme = f"""
+	<div align="center">
   
   <h2>Welcome to my GitHub profile.</h2>
   
@@ -64,25 +64,25 @@ if __name__ == "__main__":
 
   <h2>Projects & Live Demos</h2>
   <a href="https://frac.vercel.app/">
-    <img align="center" width="500" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/preview/Group 5.png" />
+	<img align="center" width="500" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/preview/Group 5.png" />
   </a>
   <a href="https://mindlabordev.github.io/DFT-Machine/">
-    <img align="center" width="500" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/preview/Group 4.png" />
+	<img align="center" width="500" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/preview/Group 4.png" />
   </a>
   <a href="https://github.com/MindLaborDev/gpt3-discord-chatbot">
-    <img align="center" width="500" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/preview/Group 3.png" />
+	<img align="center" width="500" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/preview/Group 3.png" />
   </a>
   <a href="https://github.com/Difinition-of-Done/bonza-commit">
-    <img align="center" width="500" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/preview/Group 6.png" />
+	<img align="center" width="500" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/preview/Group 6.png" />
   </a>
   <a href="https://github.com/MindLaborDev/skadi">
-    <img align="center" width="500" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/preview/Group 1.png" />
+	<img align="center" width="500" src="https://raw.githubusercontent.com/MindLaborDev/MindLaborDev/master/preview/Group 1.png" />
   </a>
 </div>
 
 &nbsp;<br>&nbsp;
-    """
-    
-    # Write the generated README to a file (or further processing)
-    with open('README.md', 'w') as f:
-        f.write(readme)
+	"""
+	
+	# Write the generated README to a file (or further processing)
+	with open('README.md', 'w') as f:
+		f.write(readme)
