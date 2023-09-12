@@ -19,12 +19,14 @@ if __name__ == "__main__":
 				image = article.get('cover_image', '')  # Use cover_image if it exists, else use an empty string
 				articles_html += f'''
 <td align="center" width="50%" style="border: none; padding: 10px;">
+	&nbsp;<br>
 	<a href="{url}">
 		<img src="{image}" alt="{title}" style="max-width:100%;">
 	</a>
 	<h3><a href="{url}">{title}</a></h3>
 	<p>{description}</p>
 	<p>👍 {likes} &nbsp; 💬 {comments}</p>
+	&nbsp;<br>
 </td>
 	'''
 		articles_html += '</tr>\n'
