@@ -36,27 +36,27 @@ Tools I use most often.
 <h2>Dev.To Articles</h2>
 
 <h2>Dev.To Articles</h2>
-<table>
-<tr>
+<table style="border-collapse: collapse; width: 100%;">
+<tr style="border: none;">
 
-<td align="center" width="50%">
-	<a href="https://dev.to/samuel-braun/naming-every-developers-nightmare-3ge8">
-		<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--9FbsmKl9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zh7jrbp60rcgo5l6u3ok.jpg" alt="Naming: Every Developer's Nightmare" style="max-width:100%;">
-	</a>
-	<h3><a href="https://dev.to/samuel-braun/naming-every-developers-nightmare-3ge8">Naming: Every Developer's Nightmare</a></h3>
-	<p>Aah.. naming things. A developer's favorite brain sport, nestled somewhere between attending endless...</p>
-	<p>👍 169 &nbsp; 💬 23</p>
-</td>
-
-<td align="center" width="50%">
-	<a href="https://dev.to/samuel-braun/boost-your-javascript-with-jsdoc-typing-3hb3">
-		<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--qacPqPmQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7asfrwpndkv5yjpz6f8q.jpg" alt="Boost Your JavaScript with JSDoc Typing" style="max-width:100%;">
-	</a>
-	<h3><a href="https://dev.to/samuel-braun/boost-your-javascript-with-jsdoc-typing-3hb3">Boost Your JavaScript with JSDoc Typing</a></h3>
-	<p>There are many reasons why you can't or don't want to use TypeScript in your project. One common...</p>
-	<p>👍 229 &nbsp; 💬 18</p>
-</td>
-</tr>
+	<td align="center" width="50%" style="border: none; padding: 10px;">
+		<a href="https://dev.to/samuel-braun/naming-every-developers-nightmare-3ge8">
+			<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--9FbsmKl9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zh7jrbp60rcgo5l6u3ok.jpg" alt="Naming: Every Developer's Nightmare" style="max-width:100%;">
+		</a>
+		<h3><a href="https://dev.to/samuel-braun/naming-every-developers-nightmare-3ge8">Naming: Every Developer's Nightmare</a></h3>
+		<p>Aah.. naming things. A developer's favorite brain sport, nestled somewhere between attending endless...</p>
+		<p>👍 169 &nbsp; 💬 23</p>
+	</td>
+	
+	<td align="center" width="50%" style="border: none; padding: 10px;">
+		<a href="https://dev.to/samuel-braun/boost-your-javascript-with-jsdoc-typing-3hb3">
+			<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--qacPqPmQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7asfrwpndkv5yjpz6f8q.jpg" alt="Boost Your JavaScript with JSDoc Typing" style="max-width:100%;">
+		</a>
+		<h3><a href="https://dev.to/samuel-braun/boost-your-javascript-with-jsdoc-typing-3hb3">Boost Your JavaScript with JSDoc Typing</a></h3>
+		<p>There are many reasons why you can't or don't want to use TypeScript in your project. One common...</p>
+		<p>👍 229 &nbsp; 💬 18</p>
+	</td>
+	</tr>
 </table>
 
 
