@@ -34,8 +34,6 @@ Tools I use most often.
 &nbsp;<br>&nbsp;
 
 <h2>Dev.To Articles</h2>
-
-<h2>Dev.To Articles</h2>
 <table style="border-collapse: collapse; width: 100%;">
 <tr style="border: none;">
 
