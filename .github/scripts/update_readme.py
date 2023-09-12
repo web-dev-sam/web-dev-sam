@@ -3,6 +3,7 @@ import json
 
 if __name__ == "__main__":
 	articles = json.loads(os.environ["ARTICLES"])
+	articles = sorted(articles, key=lambda x: x['public_reactions_count'], reverse=True)
 	
 	# Assuming each article has 'title', 'url', 'description', 'public_reactions_count', 'comments_count', and optionally 'cover_image'
 	articles_html = '<table style="border-collapse: collapse; width: 100%;">\n'
@@ -34,6 +35,7 @@ if __name__ == "__main__":
 
 	readme = f"""
 <div align="center">
+<h2>Welcome to my GitHub!</h2>
 <br>
 
 Have a look around, you might find something useful or interesting 😁.
