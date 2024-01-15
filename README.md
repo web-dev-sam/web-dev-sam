@@ -56,7 +56,7 @@ Tools I use most often.
 	</a>
 	<h3><a href="https://dev.to/samuel-braun/naming-every-developers-nightmare-3ge8">Naming: Every Developer's Nightmare</a></h3>
 	<p>Aah.. naming things. A developer's favorite brain sport, nestled somewhere between attending endless...</p>
-	<p>👍 169 &nbsp; 💬 23</p>
+	<p>👍 170 &nbsp; 💬 23</p>
 	&nbsp;<br>
 </td>
 	</tr>
