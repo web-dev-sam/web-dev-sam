@@ -45,7 +45,7 @@ Tools I use most often.
 	</a>
 	<h3><a href="https://dev.to/samuel-braun/boost-your-javascript-with-jsdoc-typing-3hb3">Boost Your JavaScript with JSDoc Typing</a></h3>
 	<p>There are many reasons why you can't or don't want to use TypeScript in your project. One common...</p>
-	<p>👍 259 &nbsp; 💬 21</p>
+	<p>👍 261 &nbsp; 💬 21</p>
 	&nbsp;<br>
 </td>
 	
