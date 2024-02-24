@@ -60,6 +60,19 @@ Tools I use most often.
 	&nbsp;<br>
 </td>
 	</tr>
+<tr style="border: none;">
+
+<td align="center" width="50%" style="border: none; padding: 10px;">
+	&nbsp;<br>
+	<a href="https://dev.to/samuel-braun/exploring-css-where-it-doesnt-make-sense-417k">
+		<img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fala6ndbyxfdl5i7bf988.png" alt="Exploring CSS where it doesn't make sense" style="max-width:100%;">
+	</a>
+	<h3><a href="https://dev.to/samuel-braun/exploring-css-where-it-doesnt-make-sense-417k">Exploring CSS where it doesn't make sense</a></h3>
+	<p>Ever felt like CSS is playing tricks on you? Despite its outward simplicity, CSS has layers of...</p>
+	<p>👍 5 &nbsp; 💬 1</p>
+	&nbsp;<br>
+</td>
+	</tr>
 </table>
 
 
