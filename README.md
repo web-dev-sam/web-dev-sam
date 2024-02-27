@@ -69,7 +69,7 @@ Tools I use most often.
 	</a>
 	<h3><a href="https://dev.to/samuel-braun/exploring-css-where-it-doesnt-make-sense-417k">Exploring CSS where it doesn't make sense</a></h3>
 	<p>Ever felt like CSS is playing tricks on you? Despite its outward simplicity, CSS has layers of...</p>
-	<p>👍 40 &nbsp; 💬 7</p>
+	<p>👍 45 &nbsp; 💬 7</p>
 	&nbsp;<br>
 </td>
 	</tr>
