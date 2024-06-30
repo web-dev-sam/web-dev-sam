@@ -11,7 +11,6 @@ Have a look around, you might find something useful or interesting 😁.
 <a href="https://bitbucket.org/samuel-braun/"><img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white"></a>
 <a href="https://gitlab.com/braunsa/"><img src="https://img.shields.io/badge/GitLab-eb452a?style=for-the-badge&logo=gitlab&logoColor=white"></a>
 <a href="https://ko-fi.com/samuelbraun"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
-<a href="https://open.spotify.com/user/office.samigo.a"><img src="https://img.shields.io/badge/Spotify-16a349?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 
 <br>&nbsp;
 
