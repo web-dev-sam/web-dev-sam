@@ -11,6 +11,7 @@ Have a look around, you might find something useful or interesting 😁.
 <a href="https://bitbucket.org/samuel-braun/"><img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white"></a>
 <a href="https://gitlab.com/braunsa/"><img src="https://img.shields.io/badge/GitLab-eb452a?style=for-the-badge&logo=gitlab&logoColor=white"></a>
 <a href="https://ko-fi.com/samuelbraun"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
+<a href="https://open.spotify.com/user/office.samigo.a"><img src="https://img.shields.io/badge/Spotify-16a349?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 
 <br>&nbsp;
 
@@ -18,6 +19,7 @@ I'm a frontend focused web developer. Here are the technologies I use the most.
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
 <img src="https://img.shields.io/badge/Tailwind-2682ab?style=for-the-badge&logo=tailwind-css&logoColor=white">
