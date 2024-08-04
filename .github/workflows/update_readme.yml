@@ -22,10 +22,16 @@ jobs:
       run: |
         python .github/scripts/update_readme.py
 
-    - name: Commit and push
+    - name: Check for changes
+      id: git-check
       run: |
-        git config --global user.name 'Your Name'
-        git config --global user.email 'your-email@example.com'
+        git diff --exit-code || echo "changes=true" >> $GITHUB_OUTPUT
+    
+    - name: Commit and push if changes
+      if: steps.git-check.outputs.changes == 'true'
+      run: |
+        git config --global user.name 'Samuel Braun'
+        git config --global user.email 'office.samigo.a@gmail.com'
         git add README.md
         git commit -m "Updated README with latest dev.to articles"
         git push
