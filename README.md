@@ -41,7 +41,7 @@ Tools I use most often.
 <td align="center" width="50%" style="border: none; padding: 10px;">
 	&nbsp;<br>
 	<a href="https://dev.to/samuel-braun/boost-your-javascript-with-jsdoc-typing-3hb3">
-		<img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7asfrwpndkv5yjpz6f8q.jpg" alt="Boost Your JavaScript with JSDoc Typing" style="max-width:100%;">
+		<img src="https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7asfrwpndkv5yjpz6f8q.jpg" alt="Boost Your JavaScript with JSDoc Typing" style="max-width:100%;">
 	</a>
 	<h3><a href="https://dev.to/samuel-braun/boost-your-javascript-with-jsdoc-typing-3hb3">Boost Your JavaScript with JSDoc Typing</a></h3>
 	<p>There are many reasons why you can't or don't want to use TypeScript in your project. One common...</p>
@@ -52,7 +52,7 @@ Tools I use most often.
 <td align="center" width="50%" style="border: none; padding: 10px;">
 	&nbsp;<br>
 	<a href="https://dev.to/samuel-braun/naming-every-developers-nightmare-3ge8">
-		<img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzh7jrbp60rcgo5l6u3ok.jpg" alt="Naming: Every Developer's Nightmare" style="max-width:100%;">
+		<img src="https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzh7jrbp60rcgo5l6u3ok.jpg" alt="Naming: Every Developer's Nightmare" style="max-width:100%;">
 	</a>
 	<h3><a href="https://dev.to/samuel-braun/naming-every-developers-nightmare-3ge8">Naming: Every Developer's Nightmare</a></h3>
 	<p>Aah.. naming things. A developer's favorite brain sport, nestled somewhere between attending endless...</p>
@@ -65,7 +65,7 @@ Tools I use most often.
 <td align="center" width="50%" style="border: none; padding: 10px;">
 	&nbsp;<br>
 	<a href="https://dev.to/samuel-braun/exploring-css-where-it-doesnt-make-sense-417k">
-		<img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fala6ndbyxfdl5i7bf988.png" alt="Exploring CSS where it doesn't make sense" style="max-width:100%;">
+		<img src="https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fala6ndbyxfdl5i7bf988.png" alt="Exploring CSS where it doesn't make sense" style="max-width:100%;">
 	</a>
 	<h3><a href="https://dev.to/samuel-braun/exploring-css-where-it-doesnt-make-sense-417k">Exploring CSS where it doesn't make sense</a></h3>
 	<p>Ever felt like CSS is playing tricks on you? Despite its outward simplicity, CSS has layers of...</p>
