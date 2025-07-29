@@ -28,7 +28,7 @@ Hey, I'm a frontend focused web developer. Have a look around, you might find so
 	</a>
 	<h3><a href="https://dev.to/samuel-braun/boost-your-javascript-with-jsdoc-typing-3hb3">Boost Your JavaScript with JSDoc Typing</a></h3>
 	<p>There are many reasons why you can't or don't want to use TypeScript in your project. One common...</p>
-	<p>👍 310 &nbsp; 💬 25</p>
+	<p>👍 311 &nbsp; 💬 25</p>
 	&nbsp;<br>
 </td>
 	
