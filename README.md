@@ -57,12 +57,3 @@ Hey, I'm a frontend focused web developer. Have a look around, you might find so
 </td>
 	</tr>
 </table>
-
-
-<br>
-
-<h2 align="center">Language Stats</h2>
-
-<p align="center">
-  <a href="https://webry.com/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=web-dev-sam&hide=htm&theme=one_dark_pro" /></a>
-</p>
